@@ -1,1 +1,2 @@
-# pro-c-32-i-dont-to-what-to-to-make-so-i-make-this-
+# Plinko-with-score
+Here I have created the plinko game with score in it.{project (WhitehatJR) C33}
